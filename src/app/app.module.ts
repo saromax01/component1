@@ -13,7 +13,7 @@ const routes: Route[] = [
     component: HomeComponent,
   },
   {
-    path: 'activepost',
+    path: 'activePost',
     component: ActivePostComponent,
   },
   {
